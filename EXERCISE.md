@@ -52,7 +52,7 @@ Earth needs to know who is sending the message.
    - Give it a `for` attribute with a unique identifier
    - Create an `<input>` element with `type` attribute set to "password"
    - Connect it to the label using a matching `id` attribute
-   - Add a `name` attribute (like "access_code")
+   - Add a `name` attribute (like "across_code")
    - Add the `required` attribute
 
 4. **Command Email:** 
